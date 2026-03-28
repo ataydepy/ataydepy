@@ -1,4 +1,13 @@
 # 👋 Welcome to my GitHub profile!
+🎓 Applied and Computational Mathematics student at UFV
+💻 Passionate about Python, software development, and problem solving
+
+I am deeply engaged in learning and applying programming concepts, especially with Python, where I focus on building a strong foundation in logic, algorithms, and automation. My academic background in mathematics gives me a solid analytical mindset, allowing me to approach problems with precision and creativity.
+
+I have a growing interest in software development, particularly in areas that involve automation and efficient problem-solving. I am constantly studying and improving my skills in data structures, algorithms, and real-world coding practices.
+
+Beyond programming, I have a strong connection with music, especially rock and metal, which has shaped my discipline, creativity, and consistency — qualities I bring into my work as a developer.
+
 # My life beyond programming:
 
 📚 Read as many books as possible.; 🎸 Play my instruments; 🦇 Listening to albums by my favorite bands; 🌈🔺 Pink Floyd.
