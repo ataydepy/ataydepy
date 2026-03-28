@@ -1,7 +1,4 @@
 # 👋 Welcome to my GitHub profile!
-![gif](https://github.com/user-attachments/assets/fe8fa96c-6282-4ba8-96ab-ca64ec287740)
-
-
 # My life beyond programming:
 
 📚 Read as many books as possible.; 🎸 Play my instruments; 🦇 Listening to albums by my favorite bands; 🌈🔺 Pink Floyd.
@@ -15,3 +12,5 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
 </div>
+
+![gif](https://github.com/user-attachments/assets/fe8fa96c-6282-4ba8-96ab-ca64ec287740)
