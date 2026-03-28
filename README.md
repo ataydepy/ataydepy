@@ -1,10 +1,9 @@
 #👋 Welcome to my GitHub profile!
 
 <p align="center">
-  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZnZTFxNGxydWtvam1oMzFlNHBrNGl2MGxrbnZ1NjFpNjZwMG95ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sn45igwIj7eSY/giphy.gif
+  ![picmix com_2732826](https://github.com/user-attachments/assets/45744f84-3687-435c-bcfa-f0e63fb1d1c3)
 </p>
 
-I'm Davi Atayde, nowadays I study 
 
 # My life beyond programming.
 
