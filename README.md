@@ -1,5 +1,7 @@
 # 👋 Welcome to my GitHub profile!
+<p align="center">
 ![gif](https://github.com/user-attachments/assets/fe8fa96c-6282-4ba8-96ab-ca64ec287740)
+</p>
 
 # My life beyond programming.
 
