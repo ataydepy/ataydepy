@@ -13,4 +13,5 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
 </div>
 __________________________________________________________________________________________________________________________________________
+
 ![gif](https://github.com/user-attachments/assets/fe8fa96c-6282-4ba8-96ab-ca64ec287740)
