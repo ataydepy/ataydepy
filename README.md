@@ -1,5 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 🎓 Applied and Computational Mathematics student at UFV
+
 💻 Passionate about Python, software development, and problem solving
 
 I am deeply engaged in learning and applying programming concepts, especially with Python, where I focus on building a strong foundation in logic, algorithms, and automation. My academic background in mathematics gives me a solid analytical mindset, allowing me to approach problems with precision and creativity.
